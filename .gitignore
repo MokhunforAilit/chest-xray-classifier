@@ -1,0 +1,9 @@
+data/
+.venv/
+.idea/
+__pycache__/
+.streamlit/secrets.toml
+*.png
+*.jpg
+*.jpeg
+*.dcm
